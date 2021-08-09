@@ -23,6 +23,7 @@
 		5024342226B932A6002E7FFF /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5024342126B932A6002E7FFF /* Item.swift */; };
 		51091FB8A30A569790847788 /* Pods_InterviewTask.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4852E5663D65F72CBBFA01E /* Pods_InterviewTask.framework */; };
 		B8E9ACDD26C0C057006192D6 /* SocketHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E9ACDC26C0C057006192D6 /* SocketHelper.swift */; };
+		B8E9ACE026C0E1B3006192D6 /* DemoSocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E9ACDF26C0E1B2006192D6 /* DemoSocket.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		5024341D26B92DF6002E7FFF /* CategoryListTBL_Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryListTBL_Cell.swift; sourceTree = "<group>"; };
 		5024342126B932A6002E7FFF /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		B8E9ACDC26C0C057006192D6 /* SocketHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocketHelper.swift; sourceTree = "<group>"; };
+		B8E9ACDF26C0E1B2006192D6 /* DemoSocket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoSocket.swift; sourceTree = "<group>"; };
 		D4852E5663D65F72CBBFA01E /* Pods_InterviewTask.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InterviewTask.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -112,6 +114,7 @@
 				5024340126B91F7A002E7FFF /* Constant.swift */,
 				5024341026B922E0002E7FFF /* UserDefaultsManager.swift */,
 				B8E9ACDC26C0C057006192D6 /* SocketHelper.swift */,
+				B8E9ACDF26C0E1B2006192D6 /* DemoSocket.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8E9ACE026C0E1B3006192D6 /* DemoSocket.swift in Sources */,
 				502433FD26B915F8002E7FFF /* AddItemVC.swift in Sources */,
 				502433F426B91535002E7FFF /* HomeVC.swift in Sources */,
 				502433DB26B91236002E7FFF /* AppDelegate.swift in Sources */,
