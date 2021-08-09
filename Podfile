@@ -9,5 +9,5 @@ target 'InterviewTask' do
   pod 'Alamofire'
   pod 'SDWebImage'
   pod 'IQKeyboardManager'
-
+ pod 'Socket.IO-Client-Swift'
 end
